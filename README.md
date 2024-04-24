@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thegemininymph
-- 👀 I’m interested in art & digital design.
-- 🌱 I’m currently learning how to build responnsive designs, color theory, and digital design software.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning how to code to pursue a career as a technical coder.
+- 🌱 I’m currently learning about Python.
+- 💞️ I’m looking to collaborate on projects related to health, fitness, nutrition, food, and beverages.
 - 📫 How to reach me thirt33n.hr@gmail.com
 
 <!---
